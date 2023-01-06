@@ -17,12 +17,15 @@ Hi, I'm David Munive, an autonomous designer, front-end developer/designer and U
 <br />
 
 **Languages and Tools:**
-```
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="vertical-align:down; margin:4px" alt="java">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="vertical-align:down; margin:4px" alt="python">
 </p>
+
+
 ```
 
+```
