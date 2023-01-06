@@ -2,7 +2,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <p align="center">
-<img alt="logo" width="600px" src="https://pbs.twimg.com/profile_images/1611184504529473536/lkljEkhK_200x200.jpg"</img>
+<img alt="logo" width="600px" src="https://pbs.twimg.com/profile_images/1611184504529473536/lkljEkhK_100x100.jpg"</img>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-DavidMunive-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-munive-it/)](https://www.linkedin.com/in/david-munive-it/)
