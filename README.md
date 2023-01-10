@@ -7,7 +7,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 [![Linkedin Badge](https://img.shields.io/badge/-DavidMunive-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-munive-it/)](https://www.linkedin.com/in/david-munive-it/)
 [![Gmail Badge](https://img.shields.io/badge/-jdavemun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jdavemun@gmail.com)](mailto:jdavemun@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@jdavidmunive-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JDavidMunive)](https://twitter.com/JDavidMunive)
+[![Twitter Badge](https://img.shields.io/badge/-@david_mnv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/david_mnv)](https://twitter.com/david_mnv)
 
 <br />
 
