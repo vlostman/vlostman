@@ -11,7 +11,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br />
 
-Hi, I'm David Munive, an autonomous designer, front-end developer/designer and UI/UX designer. Dedicated to work in projects and learn.
+Hi, I'm David M, an autonomous designer, front-end developer/designer and UI/UX designer. Dedicated to work in projects and learn.
 
 <br />
 <br />
