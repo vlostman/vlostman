@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.b.c/" target="_blank">David</a> <img
+<h1 align="center">Hi there, I'm David</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-DavidMunive-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-munive-it/)](https://www.linkedin.com/in/david-munive-it/)
