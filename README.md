@@ -6,7 +6,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br />
 
-Hi, I'm David M, an autonomous designer, front-end developer/designer and UI/UX designer and game developer. Dedicated to work in projects and learn.
+Hi, I'm David M, an autonomous designer, front-end developer/designer, UI/UX designer and game developer. Dedicated to work in projects and learn.
 
 <br />
 <br />
@@ -21,7 +21,7 @@ Hi, I'm David M, an autonomous designer, front-end developer/designer and UI/UX 
 <img src="https://simpleicons.org/icons/shadcnui.svg" height="40" style="vertical-align:down; margin:4px" alt="Shadcn/ui">
 <img src="https://simpleicons.org/icons/vite.svg" height="40" style="vertical-align:down; margin:4px" alt="Vite">
 <img src="https://simpleicons.org/icons/tailwindcss.svg" height="40" style="vertical-align:down; margin:4px" alt="TailWind">
-<img src="https://simpleicons.org/icons/unrealengine.svg" height="40" style="vertical-align:down; margin:4px" alt="UE">
+<img src="https://www.svgrepo.com/show/342328/unreal-engine.svg" height="40" style="vertical-align:down; margin:4px" alt="UE">
 </p>
 
 
