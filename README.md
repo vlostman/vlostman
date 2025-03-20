@@ -11,23 +11,23 @@
 </p>
 
 ---
-## <h2>💡 Sobre Mí & 🛠️ Tecnologías y Habilidades</h2>
+## <h2>💡 About me & 🛠️ Technologies and Skills</h2>
 
 <table style="width:100%;">
   <tr>
     <td width="50%" valign="top">
-      <h3> 💡 Sobre Mí </h3>
+      <h4> 💡 About Me </h4>
       <p align="left">
-        👋 ¡Hola! Soy David M, un apasionado diseñador autónomo, desarrollador/diseñador front-end, diseñador UI/UX y desarrollador de videojuegos. Dedicado a trabajar en proyectos y aprender continuamente.
+        👋 Hi! I'm David M, an autonomous designer, front-end developer/designer, UI/UX designer and game developer. Dedicated to work in projects and learn continuously.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3> 🛠️ Tecnologías y Habilidades </h3>
+      <h4> 🛠️ Technologies and Skills </h4>
       <p align="left">
-        Lenguajes y herramientas que manejo:
+        Languages and tools I handle:
       </p>
       <p align="center">
-       <a href="https://skillicons.dev">
+        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" title="TypeScript">
           <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js">
           <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python">
@@ -46,39 +46,40 @@
   </tr>
 </table>
 
----
-## <h2>🔭 ¿En qué estoy trabajando?</h2>
 
-> 🚀 Actualmente estoy inmerso en el desarrollo de varios proyectos personales y profesional. Estoy enfocándome diseño, programacion y UX  🛠️
+---
+## <h2>🔭 What am I working on??</h2>
+
+> 🚀 I'm currently immersed in the development of several personal and professional projects. I'm focusing on design, programming, and UX. 🛠️
 
 ---
 <table style="width:100%;">
   <tr>
     <td width="35%" valign="top">
-      <h3> 🔭 ¿En qué estoy trabajando? </h3>
+      <h4> 🔭 What I'm currently working on? </h4>
       <ul>
-        <li> 🎮 Desarrollo de videojuego </li>
-        <li> 🎨 Diseño UX </li>
-        <li> 📱 Desarrollo APP </li>
+        <li> 🎮 Video game development </li>
+        <li> 🎨 UX Design </li>
+        <li> 📱 APP Development </li>
       </ul>
     </td>
     <td width="35%" valign="top">
-      <h4> 📊 Progreso Actual </h4>
+      <h4> 📊 Current Progress </h4>
       <table>
         <tr>
-          <th>Actividad</th>
-          <th>Progreso</th>
+          <th>Activity</th>
+          <th>Progress</th>
         </tr>
         <tr>
-          <td>Desarrollo de videojuego</td>
+          <td>Video game development</td>
           <td>30%</td>
         </tr>
         <tr>
-          <td>Diseño UX</td>
+          <td>UX Design</td>
           <td>60%</td>
         </tr>
         <tr>
-          <td>Desarrollo APP</td>
+          <td>APP Development</td>
           <td>90%</td>
         </tr>
       </table>
