@@ -1,9 +1,9 @@
 <h2 align="center">Hi there, I'm David <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h2>
 
 <p align="center">
-  <a href="https://vlostman.github.io/DM-portfolio/"> <img src="https://img.shields.io/badge/LinkedIn-DavidMunive-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn DavidMunive"> </a>
-  <a href="https://twitter.com/david_mnv"> <img src="https://img.shields.io/badge/Twitter-%40david_mnv-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter @david_mnv"> </a>
-  <a href="https://www.artstation.com/davemnv"> <img src="https://img.shields.io/badge/ArtStation-DaveMnv-%2313B8F2?style=flat-square&logo=artstation&logoColor=white" alt="ArtStation DaveMnv"> </a>
+  <a href="https://vlostman.github.io/DM-portfolio/"> <img src="https://img.shields.io/badge/LinkedIn-DavidMunive-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn DavidM"> </a>
+  <a href="[https://twitter.com/david_mnv](https://x.com/dave_codesig)"> <img src="https://img.shields.io/badge/Twitter-%40david_mnv-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter @dave_codesig"> </a>
+  <a href="https://www.artstation.com/davemnv"> <img src="https://img.shields.io/badge/ArtStation-DaveMnv-%2313B8F2?style=flat-square&logo=artstation&logoColor=white" alt="ArtStation DaveM"> </a>
 </p>
 
 <p align="left">
