@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm David <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h2>
+<h2 align="center">Hi there, I'm D4ve <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h2>
 
 <p align="center">
   <a href="https://vlostman.github.io/DM-portfolio/"> <img src="https://img.shields.io/badge/LinkedIn-DavidMunive-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn DavidM"> </a>
@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  Hi, I'm David M, an autonomous designer, front-end developer/designer, UI/UX designer and game developer. Dedicated to work in projects and learn.
+  Hi, I'm an autonomous designer, front-end developer/designer, UI/UX designer and game developer. Dedicated to work in projects and learn.
 </p>
 
 ---
