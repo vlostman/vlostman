@@ -1,10 +1,6 @@
 <h2 align="center">Hi there, I'm D4ve <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h2>
 
 <p align="center">
-  <a href="https://vlostman.github.io/DM-portfolio/"> <img src="https://img.shields.io/badge/LinkedIn-DavidMunive-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn DavidM"> </a>
-  <a href="[https://twitter.com/david_mnv](https://x.com/dave_codesig)"> <img src="https://img.shields.io/badge/Twitter-%40david_mnv-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter @dave_codesig"> </a>
-  <a href="https://www.artstation.com/davemnv"> <img src="https://img.shields.io/badge/ArtStation-DaveMnv-%2313B8F2?style=flat-square&logo=artstation&logoColor=white" alt="ArtStation DaveM"> </a>
-</p>
 
 <p align="left">
   Hi, I'm an autonomous designer, front-end developer/designer, UI/UX designer and game developer. Dedicated to work in projects and learn.
@@ -18,7 +14,7 @@
     <td width="50%" valign="top">
       <h4> 💡 About Me </h4>
       <p align="left">
-        👋 Hi! I'm David M, an autonomous designer, front-end developer/designer, UI/UX designer and game developer. Dedicated to work in projects and learn continuously.
+        👋 Hi! I'm an autonomous designer, front-end developer/designer, UI/UX designer and game developer. Dedicated to work in projects and learn continuously.
       </p>
     </td>
     <td width="50%" valign="top">
@@ -84,7 +80,6 @@
         </tr>
       </table>
     </td>
-    <td width="30%" valign="top" align="center">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V1ZndxOTFmMDB6NXF0NmRzcHE0c2NzZzk5dmNodDh0NnVpbTVtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Working on GIF" width="100%">
     </td>
   </tr>
